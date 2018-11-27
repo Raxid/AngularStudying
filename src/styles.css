@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body,header,p{
+color: #4E5AF2;
+background-color: #121C96;
+}

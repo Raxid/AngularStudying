@@ -1,0 +1,31 @@
+.navbar{
+  background-color: blue;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+.navbar-brand{
+  margin-right: 30px;
+  font-size: 48px;
+  letter-spacing: 1px;
+  color: blue;
+  font-weight: 500;
+}
+.nav-item{
+  font-size: 28px;
+  color: violet;
+}
+.btn-search{
+width: 400px;
+height: 40px;
+color: blueviolet;
+}
+.btn-bi-search{
+border-color: blue;
+color: blue;
+}
+.btn-bi-search:hover, :focus, :active{
+    background-color: aliceblue;
+    border-color: blueviolet !important;
+    color: whitesmoke;
+    box-shadow: 4px;
+}
